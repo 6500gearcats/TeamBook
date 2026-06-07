@@ -18,4 +18,4 @@ accuracy, alignment, and style.
 ## mdBook Format/Tool
 See https://rust-lang.github.io/mdBook/.
 
-[gh_pages_site]: TODO
+[gh_pages_site]: https://6500gearcats.github.io/TeamBook/
