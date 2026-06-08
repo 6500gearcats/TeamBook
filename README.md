@@ -1,9 +1,11 @@
 # TeamBook
-mdBook with standards and learning materials.
+mdBook with standards, onboarding guidance, and learning materials for the GearCats robotics team.
 
 ## Reading
 This can be opened on the [GitHub Pages Site][gh_pages_site].
-The markdown is stored in [src/](src/) and can also be read directly.
+The markdown is stored in [Introduction](src/introduction.md) and can also be read directly.
+
+If you are reading the book itself, start with `Introduction` in the left navigation.
 
 ## Contributing
 All team members can improve these docs by opening a pull request.
