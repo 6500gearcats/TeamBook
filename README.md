@@ -10,10 +10,9 @@ All team members can improve these docs by opening a pull request.
 Modifications and additions will be reviewed by at least one mentor for
 accuracy, alignment, and style.
 
-# TODO
-* Fleshed out README 
-* GitHub Pages Build in CI
-* Basic Structure
+## Running locally
+To run the book locally, you need to have `mdBook` installed.
+run `mdbook serve` in the project directory, and then open `http://localhost:3000` in your browser.
 
 ## mdBook Format/Tool
 See https://rust-lang.github.io/mdBook/.
