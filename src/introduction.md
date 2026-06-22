@@ -1,4 +1,5 @@
 # Introduction
+Introduction
 
 This book is a guide for GearCats (FRC Team 6500) students and mentors. 
 It explains how the team works, provides beginner-friendly tutorials, and points to helpful resources for learning more
