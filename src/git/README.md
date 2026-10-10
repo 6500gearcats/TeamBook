@@ -53,7 +53,7 @@ Start with these ideas:
 4. Push your branch to GitHub.
    `git push -u origin your-branch-name`
 5. Open a pull request.
-   Open your branch on GitHub and click `Compare & pull request`.
+   Open your branch on GitHub https://github.com/6500gearcats/<yourbranch> and click `Compare & pull request`.
 6. Get feedback and make updates if needed.
    `git add .`
    `git commit -m "Address review feedback"`
@@ -61,6 +61,7 @@ Start with these ideas:
 7. Merge after the change is reviewed and approved.
    Use the `Merge pull request` button on GitHub.
 
+git status is a useful command to see what has changed and what is staged for commit.
 
 ## Resources
 Cheatsheet: <https://education.github.com/git-cheat-sheet-education.pdf>
