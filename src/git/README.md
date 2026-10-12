@@ -45,15 +45,15 @@ Start with these ideas:
 
 1. Clone a repository to your computer.
    `git clone https://github.com/6500gearcats/TeamBook.git`
-2. Create a new branch for your change.
-   `git checkout -b your-branch-name`
+2. Create a new branch for your change. prefix you new branch with yourname
+   `git switch -c yourname/title-of-change`
 3. Make a small change and commit it.
    `git add .`
    `git commit -m "Describe your change"`
-4. Push your branch to GitHub.
-   `git push -u origin your-branch-name`
+4. Push your branch (name you picked in step 2) to GitHub.
+   `git push -u origin yourname/title-of-change`
 5. Open a pull request.
-   Open your branch on GitHub https://github.com/6500gearcats/<yourbranch> and click `Compare & pull request`.
+   Open your branch on GitHub https://github.com/6500gearcats/<yourname/title-of-change> and click `Compare & pull request`.
 6. Get feedback and make updates if needed.
    `git add .`
    `git commit -m "Address review feedback"`
